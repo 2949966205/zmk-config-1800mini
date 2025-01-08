@@ -1,0 +1,6 @@
+if SHIELD_BENBI1800MINI
+
+config ZMK_KEYBOARD_NAME
+    default "Benbi1800mini"
+
+endif
